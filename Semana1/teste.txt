@@ -1,0 +1,7 @@
+Ola classe!
+Aqui eh a aula 2
+Sobre arquivos ....
+O padrao de leitura de arquivo que discutimos em seguida eh útil quando precisamos processar as palavras de um arquivo.
+Para acessar as palavras de um arquivo, podemos ler o conteúdo do arquivo em uma string e usar a funcao de string split(), em sua forma padrao, para separar o conteudo em uma lista de palavras. 
+Assim, nossa definição de uma palavra nesse exemplo eh simplesmente uma sequencia contigua de caracteres nao vazios.
+Ilustramos esse padrao nesta funcao, que retorna o numero de palavras em um arquivo.
