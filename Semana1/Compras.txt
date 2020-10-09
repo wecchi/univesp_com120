@@ -1,0 +1,7 @@
+Leite,12,3.8
+Maça,100,4.4
+Café,9,16.35
+Pão de forma,41,8,5.9
+Melancia,2,6.99
+Água mineral,5,6.47
+Biscoito sal,3,4.01
