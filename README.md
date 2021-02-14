@@ -61,4 +61,29 @@ Relacionei alguns exercícios realizados no 4º bimestre/2020 durante as aulas d
 34. [Estudo da Seção 6.2 - Operações com conjuntos](Semana4/Sem4_textoBase_cap6_Conjuntos.py): trabalhando com os métodos dos conjuntos e dos dicionários - _clear_, _copy_, _difference_, _discard_, *intersection_update*, _isdisjoint_, _issubset_, _issuperset_, _pop_, _remove_, *symmetric_difference*, *symmetric_difference_update*, _union_, etc...
 35. [Árvore](Semana4/Sem4_videoaula_Tree.py): criação de classe _Node_ para entendimento dos métodos _insert_, _remove_, _findval_ e _get_. Inserção das folhas pelos métodos polonês, polonês inverso e ordem. Cálculo dos parâmetros da árvore: vértices, arestas, extremidades e altura.
 </dd>
+<dt>Ordenação e busca: explorando alguns algoritmos de ordenação clássicos da área, elencando suas vantagens e desvantagens</dt>
+<dd>
+
+36. [Busca](Semana5/Sem5_Busca.py): trabalhando com buscas lineares e binárias.
+37. [Ordenação](Semana5/Sem5_Ordenacao.py): compondo algorítmos para ordenação de listas (arrays) por seleção, por inserção, _bubble sort_, _merge sort_, _quick sort_, _heap sort_ e _shell sort_.
+</dd>
+<dt>Processamento de elementos da Web: compreendendo tags HTML e JSON</dt>
+<dd>
+
+38. [JSON](Semana6/Sem6_html_json.py): lendo formatos JSON por meio da urllib.request que permite requisitar e receber recursos da Web.
+39. [Webcrawler](Semana6/Sem6_webcrawler.ipynb): explorando padrões em páginas WEB aplicando conceitos HTMLParser e LinkParser.
+</dd>
+<dt>implementando programas com interfaces gráficas (GUI - Graphical User Interface)</dt>
+<dd>
+
+40. [GUI](Semana7/Sem7_UI.py): trabalhando com _Widgets_ e montando a interface.
+</dd>
+<dt>Testes automatizados e revisão dos principais conceitos</dt>
+<dd>
+
+41. [Teste unitário](Semana8/Sem8_Testes.py): conceitos de testes unitários utilizando _unittest_.
+42. [Introdução a programação funcional](Semana8/Funcional.py): estudo de programação funcional: Estados e Dados imutáveis; função _lambda_; pacote _toolz_; utilizando funções _map()_, _reduce()_ e classe _operator_.
+43. [Revisão](Semana8/Sem8_Revisao.py): notação em listas, funções recursivas, orientação a objeto, herança; pilhas, filas e árvores binárias e buscas "em ordem", "polonesa" e "polonesa inversa".
+44. [Prova](Semana8/Sem9_Prova.py): questões da prova: Orientação a Objetos e GUI usando _tkinter_.
+</dd>
 </dl>
