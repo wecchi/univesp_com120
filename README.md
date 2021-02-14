@@ -9,7 +9,10 @@ Noções de gerenciamento de memória e manipulação de listas. Módulos e noç
 
 Relacionei alguns exercícios realizados no 4º bimestre/2020 durante as aulas da disciplina COM120 do Curso de Bacharel de Ciência de Dados da Univesp. Abaixo segue uma breve descrição do problema de negócios e da solução em Python (o link direciona para o código):
 
-> Gerenciamento de memória, arquivos e depuração de programas
+<dl>
+<dt> Gerenciamento de memória, arquivos e depuração de programas</dt>
+<dd>
+
 1. [Extrair palavras de aquivo 1](Semana1/Aula02_Arquivos.py): leitura de um arquivo texto, imprime as palavras encontradas e retorna a quantidade de palavras e o tamanho do arquivo lido.
 2. [Contar ocorrências de palavra num arquivo](Semana1/ProblemaPratico_4_7.py): leitura de um arquivo texto para obter quantidade de ocorrências de uma palavra a ser localizada.
 3. [Extrair palavras de aquivo 2](Semana1/ProblemaPratico_4_8.py): leitura de um arquivo texto para obter quantidade de palavras (desconsiderando símbolos de pontuação) e impressão da lista de palavras.
@@ -33,15 +36,21 @@ Relacionei alguns exercícios realizados no 4º bimestre/2020 durante as aulas d
 21. [Criar arquivo no N números aleatórios](Semana1/Sem1_textoBase_ep7_2_p182.py): gere o arquivo NUMEROS.TXT com 2000 números, um em cada linha, gerados com a função randint no intervalo fechado [1, 100.000].
 22. [Ordenar números aleatórios](Semana1/Sem1_textoBase_ep7_3_p183.py): programa que leia o arquivo NUMEROS.TXT gerado no exercício anterior, colocando-os em uma lista. Ordene a lista utilizando o método Bubble Sort e grave os números ordenados no arquivo “ORDENADOS.TXT”.
 23. [Correção de BUGs](Semana1/ProblemaPratico_4_10.py): explicação do que causa o erro de sintaxe em cada instrução listada.
+</dd>
+<dt>Programação orientada a objetos, prezando pela modularização e reutilização de código</dt>
+<dd>
 
->  Programação orientada a objetos, prezando pela modularização e reutilização de código
 24. [Classes Point e Vector](Semana2/Sem2_videoaula_POO1.py): conceitos de Orientação a Objeto. Criação das classes _Point_ e _Vector_ com métodos up(), down(), left(), right(), distancia(), subscrição dos métodos para a A classe _Vector_ para aceitar a adição de vetor e operações de produto, além de representação de string canônica. (exercícios 8.12, 8.14 e problema prático 8.8)
 25. [Classes Funcionario e Gerente](Semana2/Sem2_videoaula_POO2-Exercicio.py): trabalhando com herança.
+</dd>
+<dt>Funções recursivas que auxiliam na proposta de soluções para problemas complexos</dt>
+<dd>
 
->  Funções recursivas que auxiliam na proposta de soluções para problemas complexos
 26. [Calclular sequência de Fibonacci e Fatorial](Semana3/Sem3_Recursao.py): conceitos de recursão para reselver Fatorial e Fibonacci.
 27. [Comparar tempo entre recursão e iteração](Semana3/Sem3_Recursao_Iteracao.py): comparando os tempos entre iteração e recursão. Conceitos de Memoização para otimizar função recursiva.
 28. [Estudo do capítulo 10 - Recursão](Semana3/Sem3-txtBase.py): analisador de vírus num sistema de arquivos; busca binária em lista (dividir para conquistar); análise experimental de tempo de execução; retornando um dicionário para representar a tabela de frequência de uma lista.
 29. [Estudo da Seção 5.4 - Recursividade](Semana3/Sem3-txtBase2.py): funções variadas: verifica se número é primo; intersecção de duas listas; soma dos elementos de uma lista; busca binária em lista ordenada; verifica se número é par ou ímpar; retorna lista de N números primos; checa divisibilidade entre dois números; conversor de base decimal para binária; cálculo de dígito verificador; valida valor de entrada num intervalo definido; conversor de base decimal para diversas bases - até base 36; inverter sequência de caracteres; verifica palíndromo.
-
-> Estruturas de dados utilizadas para representação, manipulação e armazenamento de dados? **pilhas, filas e árvores**
+</dd>
+<dt> Estruturas de dados utilizadas para representação, manipulação e armazenamento de dados? **pilhas, filas e árvores**</dt>
+<dd></dd>
+</dl>
