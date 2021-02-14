@@ -52,5 +52,13 @@ Relacionei alguns exercícios realizados no 4º bimestre/2020 durante as aulas d
 29. [Estudo da Seção 5.4 - Recursividade](Semana3/Sem3-txtBase2.py): funções variadas: verifica se número é primo; intersecção de duas listas; soma dos elementos de uma lista; busca binária em lista ordenada; verifica se número é par ou ímpar; retorna lista de N números primos; checa divisibilidade entre dois números; conversor de base decimal para binária; cálculo de dígito verificador; valida valor de entrada num intervalo definido; conversor de base decimal para diversas bases - até base 36; inverter sequência de caracteres; verifica palíndromo.
 </dd>
 <dt> Estruturas de dados utilizadas para representação, manipulação e armazenamento de dados? **pilhas, filas e árvores**</dt>
-<dd></dd>
+<dd>
+
+30. [Pilha](Semana4/Sem4_videoaula_Pilha.py): criação de classe _pilha_ para entendimento dos métodos _push_, _pop_, _top_ e _empty_.
+31. [Fila](Semana4/Sem4_videoaula_Fila.py): criação de classe _fila_ para entendimento dos métodos _inserir_, _remover_, _top_ e _empty_; implementação de classe _filaBanco_ para geração e atendimento das senhas normais e prioritárias.
+32. [Dicionário](Semana4/Sem4_textoBase_Dictionary.py): funções para retornar o dia da semana dada sua abreviatura; contar frequência de palavras um texto; operações matemáticas de conjunto (união, interseção, diferença e diferença simétrica).
+33. [Desafio: verificar os pares de abre/fecha parênteses/colchetes/chaves](Semana4/Sem4_Desafio.py): fazer o parsing de uma expressão aritmética, que faz uso de parênteses, colchetes e chaves, retornando erro na caso de faltar fechar um desses elementos.
+34. [Estudo da Seção 6.2 - Operações com conjuntos](Semana4/Sem4_textoBase_cap6_Conjuntos.py): trabalhando com os métodos dos conjuntos e dos dicionários - _clear_, _copy_, _difference_, _discard_, *intersection_update*, _isdisjoint_, _issubset_, _issuperset_, _pop_, _remove_, *symmetric_difference*, *symmetric_difference_update*, _union_, etc...
+35. [Árvore](Semana4/Sem4_videoaula_Tree.py): criação de classe _Node_ para entendimento dos métodos _insert_, _remove_, _findval_ e _get_. Inserção das folhas pelos métodos polonês, polonês inverso e ordem. Cálculo dos parâmetros da árvore: vértices, arestas, extremidades e altura.
+</dd>
 </dl>
